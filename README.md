@@ -9,6 +9,7 @@ To replicate the study and run the fuzzy logic system:
 
 ### Clone the repository:
 `git clone https://github.com/maladeep/Fetal-Health-Prediction-and-Optimization.git`
+
 `cd Fetal-Health-Prediction-and-Optimization`
 
 ### Install the required libraries:
